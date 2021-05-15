@@ -1,14 +1,74 @@
-주커버그 왈왈
-ㅇㄴㄻㄴㄹㄴㅇㄹ
+박장성 번역 
 
-It's easy to think Facebook doesn't care that much about high-end PC VR headsets. After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product. With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset. But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
+Zuckerberg explains why an Oculus Quest 'Pro' is necessary
+ 오큘러스 퀘스트 Pro의 필요성을 주커버크가 설명한다.
 
-Now, in an interview with CNET's Scott Stein, Mark Zuckerberg is offering his thoughts on what a Quest Pro could actually be. "This [Quest Pro] is certainly something that we're working on," he said. "Basically, having a higher-end virtual reality experience." Zuckerberg explains you'd typically offer that by connecting a headset to a PC, but now he believes doing so is too big a compromise for the overall VR experience. So that's why the company is aiming for a Quest Pro, rather than a wired "Rift Pro." The company's Air Link technology proved they could make wireless VR work on a consumer-grade headset, so it doesn't seem a huge leap if Facebook wanted to make that even more viable for professional users. 
+It's easy to think Facebook doesn't care that much about high-end PC VR headsets.
+ Facebook이 최첨단 PC VR 헤드셋에 관심이 없다고 생각하기 쉽다.
 
-Zuckerberg goes on to point out there are other elements that could go into a Quest Pro, including additional sensors and capabilities that could make it useful for activities beyond gaming. That could mean built-in eye and face tracking technology, which the company has been discussing for years. With eye tracking, the Quest Pro could tell your computer the exact object you're looking at, which could focus graphical rendering and enable new VR interactions. When I tested out Tobii's eye tracking technology a few years ago, it gave me an almost telepathic ability to hit far off targets in the distance.
+After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product.
+ 어쨌든, Facebook은 자사 VR 제품에서 Rift S headset을 없애고 기본 Quest 2만 남겨 놓았다. 
 
-Face tracking, meanwhile, could seriously improve virtual chat apps by directly capturing our mouth movements. It's like the difference between chatting with a character animated by Pixar, versus one that looks like it came from the PlayStation 2. That's something HTC Vive is also exploring with its new Facial Tracker accessory. Additionally, Facebook just recently showed off wrist-worn AR devices, which could conceivably bring a whole new set of sensors into your VR experience.
+With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset.
+ Quest 2 사용자들이 컴퓨터로부터 무선으로 VR을 스트림할 수 있게하는 Air Link가 추가됨으로써, Oculus PC 헤드셋이 필요한 이유는 보이지 않는다.
 
-When you consider how successful HTC Vive has been with its Pro devices, it's also not that hard to imagine Facebook wanting to target higher-end users and enterprise markets. The Quest 2 is already a wildly successful consumer device, but there are plenty of folks out there willing to pay a lot more for vastly more capable hardware. Just don't expect a Quest Pro anytime soon.
+But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
+ 하지만 Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack에 따르면, Facebook은 강력한 VR 헤드셋, Quest Pro를 개발 중인 걸로 밝혀졌다.
 
-"From my perspective, it's filling out the initial vision and hope that we had for VR about how there are going to be all these different use cases," Zuckerberg said. "It's amazing for gaming, but it's not only for gaming. Part of the question is if you were focused on building a higher-end device that could really max out further on some of those other use cases, in addition to doing the gaming pieces, there are some interesting questions about how you design."
+Now, in an interview with CNET's Scott Stein, Mark Zuckerberg is offering his thoughts on what a Quest Pro could actually be.
+ CNET의 스콧 스테인과의 인터뷰에서 Mark Zuckerberg는 Quest Pro에 대한 생각을 밝혔다.
+ 
+"This [Quest Pro] is certainly something that we're working on," he said. "Basically, having a higher-end virtual reality experience." 
+ 우리는 Quest Pro를 개발하고 있습니다. 최고급 가상 현실 경험을 할 수 있죠
+
+Zuckerberg explains you'd typically offer that by connecting a headset to a PC, but now he believes doing so is too big a compromise for the overall VR experience. 
+ 주커버크에 따르면 일반적으로는 PC에 유선 헤드셋을 연결하지만, 그것은 VR 경험에 방해된다고 한다.
+
+So that's why the company is aiming for a Quest Pro, rather than a wired "Rift Pro." 
+ 따라서 유선 Rift Pro가 아닌, Quest Pro(아마 무선)을 만들고 있는 것이다.
+ 
+The company's Air Link technology proved they could make wireless VR work on a consumer-grade headset, 
+ 페이스북이 Air Link 기술을 만든 것을 보면 일반 소비자를 위한 무선 VR 기술력은 충분히 가지고 있다는 증거가 된다.
+
+so it doesn't seem a huge leap if Facebook wanted to make that even more viable for professional users. 
+ 따라서 페이스북이 더 전문적인 제품을 만들어 낸다고 해도 크게 놀랍지는 않을 것이다.
+  
+Zuckerberg goes on to point out there are other elements that could go into a Quest Pro, 
+ 주커버그는 Quest Pro에 들어갈 수 있는 요소에 대해 지적한다 
+including additional sensors and capabilities that could make it useful for activities beyond gaming. 
+ 부가적인 센서와 게이밍 외의 활동에도 유용한 기술들 말이다.
+
+That could mean built-in eye and face tracking technology, which the company has been discussing for years. 
+ 오랫동안 논의해온, 아마 눈 안에 탑재된(...?) 얼굴 추적 기술일 수도 있다.
+
+With eye tracking, the Quest Pro could tell your computer the exact object you're looking at, which could focus graphical rendering and enable new VR interactions. 
+ 시선 추적을 통해 Quest Pro는 우리의 눈이 어떤 물체를 보고 있는지 컴퓨터에 정확히 전달을 할 수 있게 되고 이는 곧 그래픽 렌더링에 집중을 할 수 있게하고, 새로운 VR 교류를 가능케 한다.
+
+When I tested out Tobii's eye tracking technology a few years ago, it gave me an almost telepathic ability to hit far off targets in the distance.
+ Tobii의 시선 추적 기술을 썼을 때, 나는 멀리 있는 타겟을 치는 엄청난 능력을 가질 수 있었다.
+
+Face tracking, meanwhile, could seriously improve virtual chat apps by directly capturing our mouth movements. 
+ 얼굴 추적은, 반면에, 우리의 입모양을 추적해서, 가상 잡담 apps을 향상시킬 수 있다.
+It's like the difference between chatting with a character animated by Pixar, versus one that looks like it came from the PlayStation 2. 
+ 이것은 마치 픽사의 캐릭터와 대화하는 것과, PS2의 캐릭터와 대화하는 것의 차이점과 같다.(??)
+
+That's something HTC Vive is also exploring with its new Facial Tracker accessory. 
+ 이것이 HTC Vive가 Facil Tracker 악세서리로 연구하고 있는 것이다.
+
+Additionally, Facebook just recently showed off wrist-worn AR devices, which could conceivably bring a whole new set of sensors into your VR experience.
+ 게다가, Facebook이 최근에 손목에 착용하는 AR 장치를 공개했는데, 이는 우리의 VR 경험에 새로운 경험을 가능케 할 것이다.
+ 
+When you consider how successful HTC Vive has been with its Pro devices, it's also not that hard to imagine Facebook wanting to target higher-end users and enterprise markets. 
+ HTC Vive가 Pro에 성공한 것을 보면, Facebook이 더 고급 사용자들과 기업 시장을 목표로 하리라는 것을 쉽게 상상할 수 있을 것이다.
+
+The Quest 2 is already a wildly successful consumer device, but there are plenty of folks out there willing to pay a lot more for vastly more capable hardware. Just don't expect a Quest Pro anytime soon.
+ Quest 2는 이미 널리 입증된 소비자 제품이다. 하지만 많은 소비자들은 더 좋은 제품을 더 비싼 값에 지불할 용의가 있다.  단지 Quest Pro를 금방 만날 것을 기대하지는 마시라.
+
+"From my perspective, it's filling out the initial vision and hope that we had for VR about how there are going to be all these different use cases," Zuckerberg said. 
+ 어느 관점에서 보든,  VR에 대해 가졌던 첫 비전과 희망을 이루는 것입니다.
+"It's amazing for gaming, but it's not only for gaming. 
+ 게이밍에도 유용합니다.
+Part of the question is if you were focused on building a higher-end device that could really max out further on some of those other use cases, 
+ 요지는, 만약 당신이 더 높은 수준의 장치를 만드는 데 집중하고 싶다면.
+in addition to doing the gaming pieces, there are some interesting questions about how you design."
+ 게이밍 기어 이외에도) 어떻게 디자인 해야할지에 대한 흥미로운 질문들이 있다는 것입니다.
